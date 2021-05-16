@@ -22,7 +22,7 @@
   +  GIoU/CIoU/DIoU Loss
   +  Attention Block
   +  Multi-scale Training and Testing
-
+## Note：mmdet-new/下的models文件请直接复制mmdetection项目即可
 # Contact me
 
 Email：2862588711cd@gmail.com
