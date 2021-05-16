@@ -7,9 +7,12 @@
 + 基本网络模型
   + cascade rcnn
   + resnext101 pretrained on COCO
-  + soft nms
+  + soft-nms
   + 基于mmdetection
-  + mmcv==0.2.16
+  + mmcv-full==1.2.5
+  + pytorch==1.6.0
+  + torchvision==0.7.0
+  + cudatoolkit=10.1
 + 添加的trick
   + dcn
   + global_context(gcb)
